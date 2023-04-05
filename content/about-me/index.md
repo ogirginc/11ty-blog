@@ -15,4 +15,4 @@ Working at [Teamtailor](https://www.teamtailor.com/) as a full-stack product dev
 
 ## Contact Me
 
-Mastodon – [ruby.social/@girginc](https://ruby.social/@girginc)
+Mastodon – [ruby.social/@ogirginc](https://ruby.social/@ogirginc)
